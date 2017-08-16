@@ -11,13 +11,13 @@ import os
 import time
 
 
-url = "http://sma.lsm99.net/"
-login_url = "login.php"
-main_url = "main.php"
+url = ""
+login_url = ""
+main_url = ""
 
-username = "bo@x660s1"
-password = "bo115599@"
-security_code = "115599"
+username = ""
+password = ""
+security_code = ""
 
 browser = webdriver.Firefox()#PhantomJS()
 

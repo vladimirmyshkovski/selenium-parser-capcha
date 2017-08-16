@@ -11,7 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+sudo apt install tesseract-ocr
+pip install -r requirements.txt
+
 ```
 
 ### Installing
@@ -21,8 +23,10 @@ A step by step series of examples that tell you have to get a development env ru
 Say what the step will be
 
 ```
+sudo apt install tesseract-ocr
+virtualenv -p python3 env
+. env/bin/activate
 pip install -r requirements.txt
-sudo apt install tesseract-ocr && pip install pytesseract
 
 ```
 
