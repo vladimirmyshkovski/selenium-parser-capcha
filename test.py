@@ -19,7 +19,7 @@ username = "bo@x660s1"
 password = "bo115599@"
 security_code = "115599"
 
-browser = webdriver.PhantomJS()
+browser = webdriver.Firefox()#PhantomJS()
 
 
 def get_image():
