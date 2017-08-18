@@ -8,12 +8,12 @@ import os
 import time
 
 
-url = ""
-login_url = ""
-main_url = ""
+url = "http://w2.kkkk99.net/"
+login_url = "?r=1"
+main_url = "main.php"
 
-username = ""
-password = ""
+username = "x660s1573"
+password = "aa123456"
 
 browser = webdriver.Firefox()#PhantomJS()
 
