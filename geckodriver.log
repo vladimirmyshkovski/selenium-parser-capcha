@@ -1,0 +1,80 @@
+1503078358133	geckodriver	INFO	Listening on 127.0.0.1:60897
+1503078358595	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503078363107	Marionette	INFO	Listening on port 44921
+1503078363213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503078363782	Marionette	DEBUG	loaded listener.js
+1503078363824	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503078364788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503078364788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503079477209	geckodriver	INFO	Listening on 127.0.0.1:50927
+1503079479042	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503079487218	Marionette	INFO	Listening on port 42597
+1503079487376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503079488698	Marionette	DEBUG	loaded listener.js
+1503079488779	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503079489744	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503079489746	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503079496037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://w2.kkkk99.net/?r=1"
+1503079500596	Marionette	DEBUG	Received DOM event "pageshow" for "http://w2.kkkk99.net/?r=1"
+1503079501121	Marionette	DEBUG	Received DOM event "beforeunload" for "http://w2.kkkk99.net/?r=1"
+1503079503013	Marionette	DEBUG	Received DOM event "pagehide" for "http://w2.kkkk99.net/?r=1"
+1503079503018	Marionette	DEBUG	Received DOM event "unload" for "http://w2.kkkk99.net/?r=1"
+1503079507374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/rule"
+1503079507891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/rule_text"
+1503079507894	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/rule_text"
+1503079507936	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/rule"
+1503079508073	Marionette	DEBUG	Received DOM event "beforeunload" for "http://49297922.w2.kkkk99.net/index.php/main/rule"
+1503079508587	Marionette	DEBUG	Received DOM event "pagehide" for "http://49297922.w2.kkkk99.net/index.php/main/rule"
+1503079508593	Marionette	DEBUG	Received DOM event "unload" for "http://49297922.w2.kkkk99.net/index.php/main/rule"
+1503079508683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079508685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1503079508687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079508706	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079508727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079508730	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079509199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/footer"
+1503079509423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/topmenu"
+1503079509459	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/footer"
+1503079510678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/leftframe"
+1503079510680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/leftframe"
+1503079510686	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/leftframe"
+1503079510717	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/topmenu"
+1503079511163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/main/leftframe_data?1433638817"
+1503079511168	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/leftframe_data?1433638817"
+1503079511173	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main/leftframe"
+1503079511274	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079511277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079511292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079511294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079511297	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079513109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/get_hdp_data"
+1503079513111	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/get_hdp_data"
+1503079513148	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079513162	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079513222	Marionette	DEBUG	Received DOM event "beforeunload" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079515046	Marionette	DEBUG	Received DOM event "pagehide" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079515048	Marionette	DEBUG	Received DOM event "unload" for "http://49297922.w2.kkkk99.net/index.php/main"
+1503079515324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1503079515325	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1503079515326	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1503079515328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503079515330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1503079515332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1503079515334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1503079515335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1503079515336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1503079515339	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503079516191	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079516194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079516195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079516195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079516198	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+1503079519232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://49297922.w2.kkkk99.net/index.php/content/get_hdp_data"
+1503079519234	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/get_hdp_data"
+1503079519239	Marionette	DEBUG	Received DOM event "pageshow" for "http://49297922.w2.kkkk99.net/index.php/content/hdp/2"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
