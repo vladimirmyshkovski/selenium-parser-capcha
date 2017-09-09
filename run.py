@@ -82,7 +82,6 @@ def parse_table():
 
 	for tbody in soup.find(id='mTableContainer').findAll('tbody')[2:]:
 		if tbody.find('th'):
-			#print('SPORT: ' + str(tbody.find('th').get_text()))
 			print(tbody.find('th').get_text())
 		print(' | '.join([td.get_text() for td in tbody.findAll('td')]))
 
