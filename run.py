@@ -12,8 +12,8 @@ url = "http://w2.kkkk99.net/"
 login_url = "?r=1"
 main_url = "main.php"
 
-username = "x660s1573"
-password = "aa123456"
+username = ""
+password = ""
 
 browser = webdriver.Firefox()#PhantomJS()
 
@@ -22,8 +22,6 @@ def login():
 
 	browser.get(url + login_url)
 	
-	#button = browser.find_element_by_xpath('//button[@id="signin-submit"]') 
-
 	button = WebDriverWait(browser, 100).until(
 		EC.presence_of_element_located((By.XPATH, "//button[@id='signin-submit']"))
 	)
@@ -64,6 +62,7 @@ def close_popup():
 
 	button.click()
 
+	
 def wait_table():
 	frameset = WebDriverWait(browser, 1000).until(
 		EC.presence_of_element_located((By.XPATH, "//frameset"))
@@ -75,6 +74,7 @@ def wait_table():
 		EC.presence_of_element_located((By.XPATH, "//div[@id='mTableContainer']"))
 	)
 
+	
 def parse_table():
 
 	html = browser.page_source
@@ -85,11 +85,6 @@ def parse_table():
 			#print('SPORT: ' + str(tbody.find('th').get_text()))
 			print(tbody.find('th').get_text())
 		print(' | '.join([td.get_text() for td in tbody.findAll('td')]))
-		#for td in tbody.findAll('td'):
-		#	print('TD IS: ' + str(td.get_text()))
-
-
-
 
 
 def main():
@@ -108,8 +103,6 @@ def main():
 	browser.quit()
 
 
-
 if __name__ == '__main__':
 	main()
-
 
